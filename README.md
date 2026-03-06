@@ -31,3 +31,9 @@ Email: riddhi@email.com
 ### 📊 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jadhav2003&show_icons=true&theme=radical)
+
+---
+
+### 💻 Most Used Languages
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jadhav2003&layout=compact&theme=radical)
