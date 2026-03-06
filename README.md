@@ -2,6 +2,10 @@
 <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Electronics+%26+Communication+Engineer;Embedded+Systems+Enthusiast;IoT+%26+Robotics+Developer;Python+Programmer;AI+%2B+Edge+Computing+Explorer;"/>
 </p>
 
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0072ff&height=200&section=header&text=Riddhi%20Jadhav&fontSize=40&fontColor=ffffff&animation=fadeIn" />
+</p>
+
 <h1 align="center">Hello 👋, I'm Riddhi Jadhav</h1>
 <h3 align="center">Electronics & Communication Engineer | IoT & Robotics Developer | Embedded Systems Enthusiast |CyberSecurity intern |Python Programmer | AI + Edge Computing Explorer | </h3>
 ---
@@ -19,6 +23,9 @@ Currently, I am part of the **IEEE CS Bangalore Chapter Internship & Mentorship 
 I am continuously improving my skills in **Python, IoT architectures, embedded programming, and system design**.
 
 
+## 💡 Developer Quote
+
+"Technology should solve real-world problems. I love building intelligent systems using Embedded Electronics, AI and IoT."
 ---
 
 ### 🌐 Connect With Me
@@ -53,12 +60,6 @@ I am continuously improving my skills in **Python, IoT architectures, embedded p
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jadhav2003&layout=compact&theme=tokyonight&cache_seconds=86400)
 
 ---
-
-## 🌌 3D Contribution Graph
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jadhav2003&theme=tokyonight" />
----
-
 
 ## 🏆 GitHub Trophies
 
