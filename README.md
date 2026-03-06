@@ -1,43 +1,62 @@
 <h1 align="center">Hi 👋, I'm Riddhi Jadhav</h1>
-<h3 align="center">Electronics & Communication Engineer | IoT | Embedded Systems | CyberSecurity </h3>
+<h3 align="center">Electronics & Communication Engineer | Embedded Systems | IoT Enthusiast</h3>
+
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Embedded+Systems+Engineer;IoT+Developer;Python+Programmer;Tech+Explorer" />
+</p>
 
 ---
 
 ### 👩‍💻 About Me
 
-- 🎓 Student at Jain College of Engineering
-- 🔭 Working on IoT & AI projects
-- 🌱 Currently learning Python & Embedded Systems
-- 📍 Belgaum, India
+* 🎓 Electronics & Communication Student
+* 🏫 Jain College of Engineering
+* 🤖 Interested in IoT, Robotics and AI
+* 🌱 Currently learning Embedded Systems and Python
+* 📍 Belgaum, India
 
 ---
 
-### 📫 Contact Me
+### 🌐 Connect With Me
 
-Email: riddhi@email.com
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge\&logo=linkedin)](www.linkedin.com/in/riddhi-jadhav11)
+[![Gmail](https://img.shields.io/badge/Gmail-red?style=for-the-badge\&logo=gmail)](mailto:riddhikjadhav11@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge\&logo=github)](https://github.com/jadhav2003)
 
 ---
 
-### 🛠 Skills
+### 🛠 Tech Stack
 
-- Python
-- Git & GitHub
-- Embedded Systems
-- IoT
-- Electronics
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,git,github,arduino,raspberrypi,linux,vscode"/>
+</p>
 
 ---
 
 ### 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jadhav2003&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jadhav2003\&show_icons=true\&theme=tokyonight)
 
 ---
 
-### 💻 Most Used Languages
+### 🔥 GitHub Streak
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jadhav2003&layout=compact&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=jadhav2003\&theme=tokyonight)
 
 ---
 
-![Profile Views](https://komarev.com/ghpvc/?username=jadhav2003&color=blue)
+### 📈 Contribution Graph
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=jadhav2003\&theme=react-dark)
+
+---
+
+### 🚀 Featured Projects
+
+* IoT Pollution Monitoring System
+* Fingerprint Attendance System
+* NeuroWaste AI Waste Segregation Robot
+
+---
+
+![Profile Views](https://komarev.com/ghpvc/?username=jadhav2003\&color=blue\&style=for-the-badge)
