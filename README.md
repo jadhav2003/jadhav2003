@@ -15,3 +15,13 @@
 ### 📫 Contact Me
 
 Email: riddhi@email.com
+
+---
+
+### 🛠 Skills
+
+- Python
+- Git & GitHub
+- Embedded Systems
+- IoT
+- Electronics
