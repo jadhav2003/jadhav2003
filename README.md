@@ -16,9 +16,13 @@ I am an Electronics & Communication Engineering student passionate about IoT & R
 
 Let’s connect for opportunities, collaborations, and growth.
 
+---
+
 ## 💡 Developer Quote
 
 "Technology should solve real-world problems. I love building intelligent systems using Embedded Electronics, AI and IoT."
+
+
 ---
 
 ### 🌐 Connect With Me
@@ -27,13 +31,15 @@ Let’s connect for opportunities, collaborations, and growth.
 [![Gmail](https://img.shields.io/badge/Gmail-red?style=for-the-badge\&logo=gmail)](mailto:riddhikjadhav11@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge\&logo=github)](https://github.com/jadhav2003)
 
----
+
 
 ## 💻 Tech Stack
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=python,cpp,c,arduino,raspberrypi,git,github,vscode,linux,html,css&theme=dark" />
 </p>
+
+
 ---
 
 ## 🌌 3D Contribution Graph
@@ -62,6 +68,7 @@ Let’s connect for opportunities, collaborations, and growth.
   
 
 ---
+
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=jadhav2003&label=Profile%20Views&color=blueviolet&style=flat" />
 </p>
