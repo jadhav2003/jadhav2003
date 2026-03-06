@@ -25,3 +25,9 @@ Email: riddhi@email.com
 - Embedded Systems
 - IoT
 - Electronics
+
+---
+
+### 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jadhav2003&show_icons=true&theme=radical)
