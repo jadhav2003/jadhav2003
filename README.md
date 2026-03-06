@@ -5,10 +5,6 @@
 <h1 align="center">Hello 👋, I'm Riddhi Jadhav</h1>
 <h3 align="center">Electronics & Communication Engineer | IoT & Robotics Developer | Embedded Systems Enthusiast |CyberSecurity intern |Python Programmer | AI + Edge Computing Explorer | </h3>
 
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Embedded+Systems+Engineer;IoT+Developer;Python+Programmer;AI+Tech+Explorer;Future+Robotics+Engineer"/>
-</p>
-
 ---
 
 <img align="right" height="220" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
