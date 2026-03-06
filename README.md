@@ -29,12 +29,11 @@ I am continuously improving my skills in **Python, IoT architectures, embedded p
 
 ---
 
-### 🛠 Tech Stack
+## 💻 Tech Stack
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,git,github,arduino,raspberrypi,linux,vscode"/>
+<img src="https://skillicons.dev/icons?i=python,cpp,c,arduino,raspberrypi,git,github,vscode,linux,html,css&theme=dark" />
 </p>
-
 ---
 
 ## 📊 GitHub Stats
@@ -42,10 +41,9 @@ I am continuously improving my skills in **Python, IoT architectures, embedded p
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jadhav2003&show_icons=true&theme=tokyonight&cache_seconds=86400)
 
 ---
+## 🔥 GitHub Streak
 
-### 🔥 GitHub Streak
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=jadhav2003\&theme=tokyonight)
+<img src="https://streak-stats.demolab.com?user=jadhav2003&theme=tokyonight&hide_border=true" />
 
 ---
 
@@ -55,12 +53,11 @@ I am continuously improving my skills in **Python, IoT architectures, embedded p
 
 ---
 
+## 🌌 3D Contribution Graph
 
-### 📈 Contribution Graph
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=jadhav2003\&theme=react-dark)
-
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jadhav2003&theme=tokyonight" />
 ---
+
 
 ## 🏆 GitHub Trophies
 
@@ -83,4 +80,6 @@ I am continuously improving my skills in **Python, IoT architectures, embedded p
 
 ---
 
-![Profile Views](https://komarev.com/ghpvc/?username=jadhav2003\&color=blue\&style=for-the-badge)
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=jadhav2003&label=Profile%20Views&color=blueviolet&style=flat" />
+</p>
