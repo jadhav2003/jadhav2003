@@ -36,11 +36,12 @@ I am continuously improving my skills in **Python, IoT architectures, embedded p
 </p>
 ---
 
-## 📊 GitHub Stats
+## 🌌 3D Contribution Graph
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jadhav2003&show_icons=true&theme=tokyonight&cache_seconds=86400)
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jadhav2003&theme=tokyonight" />
 
 ---
+
 ## 🔥 GitHub Streak
 
 <img src="https://streak-stats.demolab.com?user=jadhav2003&theme=tokyonight&hide_border=true" />
@@ -79,7 +80,6 @@ I am continuously improving my skills in **Python, IoT architectures, embedded p
   
 
 ---
-
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=jadhav2003&label=Profile%20Views&color=blueviolet&style=flat" />
 </p>
