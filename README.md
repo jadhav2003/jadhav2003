@@ -1,19 +1,28 @@
-<h1 align="center">Hi 👋, I'm Riddhi Jadhav</h1>
-<h3 align="center">Electronics & Communication Engineer | Embedded Systems | IoT Enthusiast</h3>
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Electronics+%26+Communication+Engineer;Embedded+Systems+Enthusiast;IoT+%26+Robotics+Developer;Python+Programmer;AI+%2B+Edge+Computing+Explorer;Future+Aeronautics+Engineer"/>
+</p>
+
+<h1 align="center">Hello 👋, I'm Riddhi Jadhav</h1>
+<h3 align="center">Electronics & Communication Engineer | IoT & Robotics Developer | Embedded Systems Enthusiast |CyberSecurity intern |Python Programmer | AI + Edge Computing Explorer | </h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Embedded+Systems+Engineer;IoT+Developer;Python+Programmer;Tech+Explorer" />
+<img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Embedded+Systems+Engineer;IoT+Developer;Python+Programmer;AI+Tech+Explorer;Future+Robotics+Engineer"/>
 </p>
 
 ---
 
+<img align="right" height="220" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
+
 ### 👩‍💻 About Me
 
-* 🎓 Electronics & Communication Student
-* 🏫 Jain College of Engineering
-* 🤖 Interested in IoT, Robotics and AI
-* 🌱 Currently learning Embedded Systems and Python
-* 📍 Belgaum, India
+* 🎓I am an Electronics & Communication Engineering student with a strong interest in **Embedded Systems, IoT, and intelligent automation**.
+
+I enjoy designing **hardware–software integrated solutions** that solve real-world problems. My work includes IoT monitoring systems, fingerprint-based attendance solutions, and AI-powered robotic systems.
+
+Currently, I am part of the **IEEE CS Bangalore Chapter Internship & Mentorship Program**, where I am developing **NeuroWaste**, an AI-driven robotic waste segregation system using edge computing and blockchain.
+
+I am continuously improving my skills in **Python, IoT architectures, embedded programming, and system design**.
+
 
 ---
 
@@ -35,7 +44,7 @@
 
 ### 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jadhav2003\&show_icons=true\&theme=tokyonight)
+![Riddhi's GitHub stats](https://github-readme-stats.vercel.app/api?username=jadhav2003\&show_icons=true\&theme=tokyonight)
 
 ---
 
@@ -45,17 +54,36 @@
 
 ---
 
+### 💻 Top Languages
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jadhav2003\&layout=compact\&theme=tokyonight)
+
+---
+
 ### 📈 Contribution Graph
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=jadhav2003\&theme=react-dark)
 
 ---
 
+### 🏆 GitHub Trophies
+
+![trophy](https://github-profile-trophy.vercel.app/?username=jadhav2003\&theme=radical\&margin-w=10)
+
+---
+
+### 🐍 Contribution Snake
+
+![Snake animation](https://github.com/jadhav2003/jadhav2003/blob/output/github-contribution-grid-snake.svg)
+
+---
+
 ### 🚀 Featured Projects
 
-* IoT Pollution Monitoring System
-* Fingerprint Attendance System
-* NeuroWaste AI Waste Segregation Robot
+* 🌍 IoT Pollution Monitoring System
+* 🔐 Fingerprint Based Attendance System
+* 🤖 NeuroWaste AI Waste Segregation Robot
+  
 
 ---
 
