@@ -37,9 +37,9 @@ I am continuously improving my skills in **Python, IoT architectures, embedded p
 
 ---
 
-### 📊 GitHub Stats
+## 📊 GitHub Stats
 
-![Riddhi's GitHub stats](https://github-readme-stats.vercel.app/api?username=jadhav2003&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jadhav2003&show_icons=true&theme=tokyonight&cache_seconds=86400)
 
 ---
 
@@ -49,10 +49,12 @@ I am continuously improving my skills in **Python, IoT architectures, embedded p
 
 ---
 
-### 💻 Top Languages
+## 💻 Top Languages
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jadhav2003&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jadhav2003&layout=compact&theme=tokyonight&cache_seconds=86400)
+
 ---
+
 
 ### 📈 Contribution Graph
 
@@ -60,9 +62,9 @@ I am continuously improving my skills in **Python, IoT architectures, embedded p
 
 ---
 
-### 🏆 GitHub Trophies
+## 🏆 GitHub Trophies
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=jadhav2003&theme=algolia&no-frame=true&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
+![trophy](https://github-profile-trophy.vercel.app/?username=jadhav2003&theme=tokyonight&no-frame=true&margin-w=10)
 
 ---
 
