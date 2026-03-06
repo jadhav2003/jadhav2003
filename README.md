@@ -29,21 +29,25 @@ Let’s connect for opportunities, collaborations, and growth
 
 ## 💻 Tech Stack
 
-<align="center">
-<img src="https://skillicons.dev/icons?i=python,cpp,c,arduino,raspberrypi,git,github,vscode,linux,html,css&theme=dark" />
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,cpp,c,arduino,raspberrypi,git,github,vscode,linux,html,css&theme=dark"/>
+</p>  
 
 
 ---
+
 
 ## 🌌 3D Contribution Graph
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jadhav2003&theme=tokyonight" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jadhav2003&theme=tokyonight"/>
 
 ---
 
+
 ## 🔥 GitHub Streak
 
-<img src="https://streak-stats.demolab.com?user=jadhav2003&theme=tokyonight&hide_border=true" />
+<img src="https://streak-stats.demolab.com?user=jadhav2003&theme=tokyonight&hide_border=true"/>
 
 ---
 
