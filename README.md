@@ -14,13 +14,7 @@
 
 I am an Electronics & Communication Engineering student passionate about IoT & RTOS Systems, embedded System Developing , Wireless Communication & ARM Based Microcontroller. Skilled in developing innovative, real-time, and IoT driven solutions. I am eager to contribute to cutting-edge projects and internships that drive digital transformation . Committed to continuous learning and driving technological innovation to create transformative solutions across IoT & Embedded Industries.
 
-Let’s connect for opportunities, collaborations, and growth.
-
----
-
-## 💡 Developer Quote
-
-"Technology should solve real-world problems. I love building intelligent systems using Embedded Electronics, AI and IoT."
+Let’s connect for opportunities, collaborations, and growth
 
 
 ---
@@ -31,7 +25,7 @@ Let’s connect for opportunities, collaborations, and growth.
 [![Gmail](https://img.shields.io/badge/Gmail-red?style=for-the-badge\&logo=gmail)](mailto:riddhikjadhav11@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge\&logo=github)](https://github.com/jadhav2003)
 
-
+---
 
 ## 💻 Tech Stack
 
