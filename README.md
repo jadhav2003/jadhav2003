@@ -1,17 +1,16 @@
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Electronics+%26+Communication+Engineer;Embedded+Systems+Enthusiast;IoT+%26+Robotics+Developer;Python+Programmer;AI+%2B+Edge+Computing+Explorer;Future+Aeronautics+Engineer"/>
+<img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Electronics+%26+Communication+Engineer;Embedded+Systems+Enthusiast;IoT+%26+Robotics+Developer;Python+Programmer;AI+%2B+Edge+Computing+Explorer;"/>
 </p>
 
 <h1 align="center">Hello 👋, I'm Riddhi Jadhav</h1>
 <h3 align="center">Electronics & Communication Engineer | IoT & Robotics Developer | Embedded Systems Enthusiast |CyberSecurity intern |Python Programmer | AI + Edge Computing Explorer | </h3>
-
 ---
 
 <img align="right" height="220" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
 ### 👩‍💻 About Me
 
-* 🎓I am an Electronics & Communication Engineering student with a strong interest in **Embedded Systems, IoT, and intelligent automation**.
+I am an Electronics & Communication Engineering student with a strong interest in **Embedded Systems, IoT, and intelligent automation**.
 
 I enjoy designing **hardware–software integrated solutions** that solve real-world problems. My work includes IoT monitoring systems, fingerprint-based attendance solutions, and AI-powered robotic systems.
 
@@ -40,7 +39,7 @@ I am continuously improving my skills in **Python, IoT architectures, embedded p
 
 ### 📊 GitHub Stats
 
-![Riddhi's GitHub stats](https://github-readme-stats.vercel.app/api?username=jadhav2003\&show_icons=true\&theme=tokyonight)
+![Metrics](https://metrics.lecoq.io/jadhav2003?template=classic&languages=1&isocalendar=1)
 
 ---
 
@@ -52,7 +51,7 @@ I am continuously improving my skills in **Python, IoT architectures, embedded p
 
 ### 💻 Top Languages
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jadhav2003\&layout=compact\&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jadhav2003&layout=compact&theme=tokyonight)
 
 ---
 
@@ -64,13 +63,15 @@ I am continuously improving my skills in **Python, IoT architectures, embedded p
 
 ### 🏆 GitHub Trophies
 
-![trophy](https://github-profile-trophy.vercel.app/?username=jadhav2003\&theme=radical\&margin-w=10)
+![trophy](https://github-profile-trophy.vercel.app/?username=jadhav2003&theme=tokyonight&no-frame=true&row=1&column=7)
 
 ---
 
 ### 🐍 Contribution Snake
 
-![Snake animation](https://github.com/jadhav2003/jadhav2003/blob/output/github-contribution-grid-snake.svg)
+<p align="center">
+<img src="https://github.com/jadhav2003/jadhav2003/blob/output/github-contribution-grid-snake.svg"/>
+</p>
 
 ---
 
