@@ -6,7 +6,6 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0072ff&height=200&section=header&text=Riddhi%20Jadhav&fontSize=40&fontColor=ffffff&animation=fadeIn" />
 </p>
 
-<h1 align="center">Hello 👋, I'm Riddhi Jadhav</h1>
 <h3 align="center">Electronics & Communication Engineer | IoT & Robotics Developer | Embedded Systems Enthusiast |CyberSecurity intern |Python Programmer | AI + Edge Computing Explorer | </h3>
 
 <img align="right" height="220" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
