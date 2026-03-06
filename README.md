@@ -29,9 +29,8 @@ Let’s connect for opportunities, collaborations, and growth
 
 ## 💻 Tech Stack
 
-<p align="center">
+<align="center">
 <img src="https://skillicons.dev/icons?i=python,cpp,c,arduino,raspberrypi,git,github,vscode,linux,html,css&theme=dark" />
-</p>
 
 
 ---
