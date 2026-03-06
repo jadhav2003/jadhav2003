@@ -69,9 +69,9 @@ I am continuously improving my skills in **Python, IoT architectures, embedded p
 
 ### 🐍 Contribution Snake
 
-<p align="center">
-<img src="https://github.com/jadhav2003/jadhav2003/blob/output/github-contribution-grid-snake.svg"/>
-</p>
+## 🐍 Contribution Snake
+
+![Snake animation](https://github.com/jadhav2003/jadhav2003/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
